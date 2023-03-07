@@ -25,9 +25,9 @@ require (
 	github.com/stretchr/testify v1.8.0
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d // indirect
-	golang.org/x/image v0.0.0-20220617043117-41969df76e82
-	golang.org/x/sys v0.0.0-20220627191245-f75cf1eec38b
-	golang.org/x/text v0.3.7
+	golang.org/x/image v0.5.0
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	golang.org/x/text v0.7.0
 	gopkg.in/ini.v1 v1.66.6
 	howett.net/plist v1.0.0 // indirect
 )
@@ -39,7 +39,7 @@ require (
 	github.com/charmbracelet/lipgloss v0.5.0
 	github.com/hashicorp/hcl/v2 v2.13.0
 	github.com/spf13/cobra v1.5.0
-	golang.org/x/mod v0.5.1
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -61,7 +61,6 @@ require (
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
 	github.com/tklauser/numcpus v0.5.0 // indirect
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
-	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 )
 
 require (
